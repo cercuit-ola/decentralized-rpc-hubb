@@ -1,0 +1,4 @@
+project_id = "pqfjjvlbbgncjmtgczkt"
+
+[functions.rpc-health]
+verify_jwt = false
