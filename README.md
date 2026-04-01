@@ -2,6 +2,7 @@
 # Decentralized RPC Hubb
 
 > A community-driven registry and dashboard for discovering, submitting, and monitoring decentralised blockchain RPC endpoints — built for Web3 developers who need reliable, censorship-resistant node access without vendor lock-in with love from Samuel Olaide.
+Visit: https://decentralizedrpcdash.netlify.app/
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-97%25-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
